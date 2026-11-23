@@ -1,0 +1,15 @@
+# Visual Studio / Build artifacts
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+*.userprefs
+*.suo
+*.sln.docstates
+*.DotSettings.user
+*.patch
+*.diff
+
+# Ignore build output inside TreeCMS\bin and TreeCMS\obj
+TreeCMS/bin/
+TreeCMS/obj/
